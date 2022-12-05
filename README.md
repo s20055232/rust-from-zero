@@ -6,6 +6,7 @@
 1. The Rust Book (部分篇章完成)
 2. Rustlings (完成)
 3. ultimate-rust-crash-course (進行中)
+4. ultimate rust 2
 4. Zero To Production In Rust
 5. Actix & Yew
 
