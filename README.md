@@ -46,11 +46,17 @@ Rust官方教學手冊，寫的深入淺出，且官方教學，內容跟品質�
 
 ##### 高階🥸
 
+目標沒有ＱＱ
+
 ### 我想做專案💪
 
 - [Zero To Prod](https://www.zero2prod.com/index.html)
 
 廢話不多說，直接以完成一個Web App為目標，帶你走過一個專案的開發流程，適合想要使用Rust進行網頁開發，並且想要直接動手做的人。
+
+- [Rust on Nails](https://github.com/purton-tech/rust-on-nails)
+
+手把手帶你使用Rust建構一個全端的Web專案
 
 ### 我想直接練習👩🏻‍💻
 
