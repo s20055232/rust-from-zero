@@ -58,6 +58,10 @@ Rust官方教學手冊，寫的深入淺出，且官方教學，內容跟品質�
 
 手把手帶你使用Rust建構一個全端的Web專案
 
+- [Real Time Chat App Rust React/](https://blog.logrocket.com/real-time-chat-app-rust-react/)
+
+使用Rust與React，帶你建立一個即時聊天室
+
 ### 我想直接練習👩🏻‍💻
 
 - [Rustling](https://github.com/rust-lang/rustlings)
