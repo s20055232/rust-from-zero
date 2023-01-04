@@ -71,3 +71,7 @@ Rust官方教學手冊，寫的深入淺出，且官方教學，內容跟品質�
 - [Rust By Example](https://rustwiki.org/zh-CN/rust-by-example/index.html)
 
 透過一個個的範例，帶你動手練習所有Rust語法，適合想要直接動手練習的人。
+
+- [Exercism](https://exercism.org/tracks/rust)
+
+大量的練習題，難度比Rustlings來的難一點，相當適合基礎語法練習之後，還想要進行一些挑戰的人。
