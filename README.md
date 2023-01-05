@@ -17,9 +17,11 @@
 
 ## 學習資源
 
+### 我學過程式💻
+
 ### 我是理論派📚
 
-##### 初階🤓
+#### 初階🤓
 
 - [A Half Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
@@ -29,7 +31,7 @@
 
 Udemy上面的付費課程，前面的解說相當快速且淺顯易懂，僅告訴你需要知道的，最後會完成一個Terminal Game，有點難度，但做完會信心大增。
 
-##### 中階😎
+#### 中階😎
 
 - [Ultimate Rust 2](https://www.udemy.com/course/ultimate-rust-2/)
 
@@ -44,7 +46,7 @@ Rust官方教學手冊，寫的深入淺出，且官方教學，內容跟品質�
 扎實且深入的帶你認識並使用這個語言，適合想要深入了解並研究Rust語言的人，不太推薦給初學者或是趕時間上手的人，內容會比較困難，且需花大量時間理解。
 
 
-##### 高階🥸
+#### 高階🥸
 
 目標沒有ＱＱ
 
