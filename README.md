@@ -19,6 +19,14 @@
 
 ### 我學過程式💻
 
+- [A Half Hour to Learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
+用半個小時學習Rust的基礎語法，相當適合想要快速認識、體驗Rust的人。
+
+-[Rust For Professionals](https://overexact.com/rust-for-professionals/?utm_source=tldrnewsletter)
+
+給有經驗的開發者，透過與其他語言的範例程式碼進行比較，讓你快速理解概念，了解Rust的寫法。
+
 ### 我是理論派📚
 
 #### 初階🤓
