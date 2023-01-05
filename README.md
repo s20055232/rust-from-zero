@@ -23,7 +23,7 @@
 
 用半個小時學習Rust的基礎語法，相當適合想要快速認識、體驗Rust的人。
 
--[Rust For Professionals](https://overexact.com/rust-for-professionals/?utm_source=tldrnewsletter)
+- [Rust For Professionals](https://overexact.com/rust-for-professionals/?utm_source=tldrnewsletter)
 
 給有經驗的開發者，透過與其他語言的範例程式碼進行比較，讓你快速理解概念，了解Rust的寫法。
 
@@ -85,3 +85,10 @@ Rust官方教學手冊，寫的深入淺出，且官方教學，內容跟品質�
 - [Exercism](https://exercism.org/tracks/rust)
 
 大量的練習題，難度比Rustlings來的難一點，相當適合基礎語法練習之後，還想要進行一些挑戰的人。
+
+
+### 其他
+
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+
+Rust語言的筆記
