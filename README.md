@@ -78,7 +78,7 @@
 - [Rust on Nails](https://github.com/purton-tech/rust-on-nails)
 > 手把手帶你使用Rust建構一個全端的Web專案
 
-- [Real Time Chat App Rust React/](https://blog.logrocket.com/real-time-chat-app-rust-react/)
+- [Real Time Chat App Rust React](https://blog.logrocket.com/real-time-chat-app-rust-react/)
 > 使用Rust與React，帶你建立一個即時聊天室
 
   
